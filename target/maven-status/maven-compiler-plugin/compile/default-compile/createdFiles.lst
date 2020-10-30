@@ -1,1 +1,8 @@
-com/thedevfamily/usermanagement/UsermanagementApplication.class
+com\thedevfamily\usermanagement\model\response\UserResponse.class
+com\thedevfamily\usermanagement\UsermanagementApplication.class
+com\thedevfamily\usermanagement\controller\UserController.class
+com\thedevfamily\usermanagement\service\UserServiceImpl.class
+com\thedevfamily\usermanagement\repository\UserRepository.class
+com\thedevfamily\usermanagement\model\Response.class
+com\thedevfamily\usermanagement\model\User.class
+com\thedevfamily\usermanagement\service\UserService.class
